@@ -1,0 +1,15 @@
+
+.icon-times-circle {
+  display: flex;
+  position: absolute;
+  z-index: 100;
+  top: 10px;
+  right: 40px;
+  color: #17a2b8;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.icon-times-circle.hidden {
+  display: none;
+}
